@@ -3,21 +3,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
 
 #superTitulo{
-    background-color: rgb(255, 82, 20);
-}
-
-#fonteInicial{
-    font-family: 'Dancing Script', cursive;
-    font-size: 50px;
-    text-align: center;
-    border: 2px solid black;
-    padding: 15px;
-    margin: 1px;
+    border: 1px solid; 
+    padding: 50px;
+    margin: 0px; 
+    background-image: url(logoCaminhosDoSol.jpeg);
+    background-size: cover; 
+    height: 100px;
+    background-position: 11px;
 }
 
 #redesInicial{
     border: 2px solid black;
-    margin-top: 10px;
+    margin-top: 15px;
     padding: 2px;
     width: 110px;
     float: right;
@@ -28,8 +25,8 @@
     margin-top: 10px;
     font-family: 'Bebas Neue', cursive;
     font-size: 18px;
-    word-spacing: 150px;
-    padding-left: 220px;
+    word-spacing: 140px;
+    padding-left: 140px;
 }
 
 #ArtPraia{
@@ -41,7 +38,16 @@
 }
 
 #trocaDevolucoes{
-    position: absolute;
-    background-color: aqua;
-    font-family: 'Libre Baskerville', serif;
+    box-shadow:inset 0px 39px 0px -24px #e67a73;
+	background-color:#e4685d;
+	border-radius:4px;
+	border:1px solid #ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	padding:6px 44px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #b23e35;
 }
