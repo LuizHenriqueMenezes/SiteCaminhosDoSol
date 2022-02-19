@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
+
+#superTitulo{
+    background-color: rgb(255, 82, 20);
+}
+
+#fonteInicial{
+    font-family: 'Dancing Script', cursive;
+    font-size: 50px;
+    text-align: center;
+    border: 2px solid black;
+    padding: 15px;
+    margin: 1px;
+}
+
+#redesInicial{
+    border: 2px solid black;
+    position: absolute; top: 220px; left: 1470px; width: 110px; right: 10px;
+    padding: 2px;
+    width: 110px;
+}
+
+#sessoes{
+    border: 1px solid black;
+    margin-top: 10px;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 18px;
+    word-spacing: 150px;
+    padding-left: 220px;
+}
+
+#ArtPraia{
+    word-spacing: normal;
+}
+
+#Pesquisa{
+    margin-top: 10px;
+}
+
+#trocaDevolucoes{
+    position: absolute;
+    background-color: aqua;
+    font-family: 'Libre Baskerville', serif;
+}
