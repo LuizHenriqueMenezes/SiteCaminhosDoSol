@@ -17,9 +17,10 @@
 
 #redesInicial{
     border: 2px solid black;
-    position: absolute; top: 220px; left: 1470px; width: 110px; right: 10px;
+    margin-top: 10px;
     padding: 2px;
     width: 110px;
+    float: right;
 }
 
 #sessoes{
