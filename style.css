@@ -37,6 +37,24 @@
     margin-top: 10px;
 }
 
+#barrinha{
+    padding-right: 600px;
+    margin-bottom: 15px;
+    padding-bottom: 4px;
+}
+
+#lupa{
+    padding: 3px;
+    padding-bottom: 6px;
+    padding-right: 6px;
+    padding-top: -8px;
+}
+
+#posicoesBotaoIniciais{
+    margin-top: -35px;
+    float: right;
+}
+
 .botoesRed{
     box-shadow:inset 0px 39px 0px -24px #e67a73;
 	background-color:#e4685d;
@@ -98,4 +116,13 @@
 
 #imgAlerta{
     margin-left: 70px;
+}
+
+#telaPromocao{
+    border: 2px solid black;
+    margin-left: 50px;
+    margin-top: 20px;
+    padding-right: 1200px;
+    padding-bottom: 260px;
+    float: left;
 }
